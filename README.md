@@ -1,0 +1,1 @@
+This is Maakia's first git project!
